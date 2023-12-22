@@ -1,0 +1,15 @@
+image.origin : lower 
+
+hist.bins: 100
+
+font.size : 30
+xtick.labelsize : 30
+ytick.labelsize : 30
+axes.labelsize : 30
+
+font.family : serif
+text.usetex : True
+
+savefig.format : pdf
+savefig.transparent : True 
+savefig.dpi : 50

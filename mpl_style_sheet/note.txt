@@ -1,0 +1,3 @@
+https://matplotlib.org/stable/users/explain/customizing.html
+
+unit of fontsize is pt, unit of figure size is inch. 1 inch = 72 pt.
