@@ -8,7 +8,7 @@ image.origin : lower
 hist.bins: 100
 
 xtick.top:        True 
-xtick.labelsize : 30
+xtick.labelsize : 40
 xtick.minor.visible: True
 xtick.direction:     in
 xtick.major.size:    8     # major tick size in points
@@ -17,7 +17,7 @@ xtick.major.width:   3     # major tick width in points
 xtick.minor.width:   2     # minor tick width in points
 
 ytick.right:      True
-ytick.labelsize : 30
+ytick.labelsize : 40
 ytick.minor.visible: True 
 ytick.direction:     in 
 ytick.major.size:    8     # major tick size in points
@@ -26,13 +26,13 @@ ytick.major.width:   3     # major tick width in points
 ytick.minor.width:   2     # minor tick width in points
 
 # axes 
-axes.labelsize : 30
+axes.labelsize : 40
 axes.linewidth:  3
 
 ########
 # font #
 ########
-font.size : 30
+font.size : 40
 font.family : serif
 
 #########

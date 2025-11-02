@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: num_util
+Version: 0.1.0
+Summary: Numerical utilities for astrophysics and more
+Author-email: Your Name <your.email@example.com>
+License: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# num_util
+Utility function for numerical computing and analysing
+
+# installation and set up
+remember to set the path in path_info.py.
