@@ -13,17 +13,4 @@ def print_fits_header(hdu):
         print(line)
     print('\n')
 
-# csv file
-def read_csv(filename, delimiter=',', dtype=float):
-    '''
-    Routine to read csv data
-    '''
-    import csv
-    dat = []
-    with open(filename) as csv_file:
-        csv_reader = csv.reader(csv_file, delimiter=delimiter)
-        for row in csv_reader:
-            dat.append(row)
-    if dtype in [int, float]:
-        dat = np.array(dat, dtype=dtype)
-    return dat
+
